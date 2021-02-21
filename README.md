@@ -1,10 +1,6 @@
 <h2 align="center">dev.finance$</h2>
 
 <p align="center">
-  <img src="https://readme-maker.herokuapp.com/uploads/19c11ad2a54eefa6-logo.svg" width="300" heigth="300">
-</p>
-
-<p align="center">
   <a href="LICENSE">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
